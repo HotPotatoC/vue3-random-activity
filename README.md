@@ -41,3 +41,5 @@ Run the container
 ```bash
 $ docker run -it -p 8080:8080 vue3-random-activity
 ```
+
+The app should be running on [http://localhost:8080](http://localhost:8080)
