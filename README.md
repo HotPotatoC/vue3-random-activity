@@ -4,6 +4,10 @@
 
 A simple random activity generator app provided by the [Bored API](https://www.boredapi.com) built with the new Vue.js 3 + TailwindCSS + Docker
 
+## Demo
+
+You can open the demo [here](https://vue3-random-activity.netlify.app/)
+
 ## Getting Started
 
 Open your terminal then clone the repository
