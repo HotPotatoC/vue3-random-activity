@@ -1,5 +1,5 @@
 import axios from "axios";
 
 export default axios.create({
-  baseURL: "http://www.boredapi.com/api"
+  baseURL: "https://www.boredapi.com/api"
 });
